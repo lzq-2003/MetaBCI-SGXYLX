@@ -8,4 +8,16 @@
 - ④ 外设控制方面，实现了刺激界面实时视觉反馈以及外肢体机器人动、触觉反馈。
 
 ## 代码目录结构
-总文件夹/ |-- demos/ | |-- demo_system/ | | |-- demo_TUNEXON_Calibration.py | | |-- demo_TUNEXON_Online.py | | |-- 脑控程序封装/ | | | |-- main.exe | | | |-- 相关程序文件 | | |-- 示例校准数据/ | | |-- 示例刺激界面/ | | |-- demo_stim/ | | | |-- demo_stim.py | | |-- demo_trans/ | | |-- demo_trans.py |-- metabci/ |-- LICENSE
+- `demo_TUNEXON_Calibration.py`：用于TUNEXON校准的示例脚本。
+- `demo_TUNEXON_Online.py`：用于TUNEXON在线操作的示例脚本。
+- `脑控程序封装/`：包含脑控程序封装的相关文件。
+  - `main.exe`：主程序可执行文件。
+  - `相关程序文件`：与主程序相关的其他文件。
+- `示例校准数据/`：包含用于校准的示例数据。
+- `示例刺激界面/`：包含示例刺激界面的相关文件。
+- `demo_stim/`：包含刺激相关的示例脚本。
+  - `demo_stim.py`：刺激示例脚本。
+- `demo_trans/`：包含传输相关的示例脚本。
+  - `demo_trans.py`：传输示例脚本。
+- `metabci/`：包含MetaBCI相关的文件。
+- `LICENSE`：项目的许可证文件。
