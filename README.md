@@ -11,8 +11,8 @@
 
 - `demos/`：包含所有示例脚本和相关文件的目录。
   - `demo_system/`：包含系统相关的示例脚本和文件。
-    - `demo_TUNEXON_Calibration.py`：用于TUNEXON校准的示例脚本。
-    - `demo_TUNEXON_Online.py`：用于TUNEXON在线操作的示例脚本。
+    - `demo_TUNEXON_Calibration.py`：用于校准的示例脚本。
+    - `demo_TUNEXON_Online.py`：用于在线操作的示例脚本。
     - `脑控程序封装/`：包含脑控程序封装的相关文件。
       - `main.exe`：主程序可执行文件。
       - `相关程序文件`：与主程序相关的其他文件。
@@ -22,5 +22,5 @@
     - `demo_stim.py`：刺激示例脚本。
   - `demo_trans/`：包含传输相关的示例脚本。
     - `demo_trans.py`：传输示例脚本。
-- `metabci/`：包含MetaBCI相关的文件。
+- `metabci`：包含MetaBCI相关的文件。
 - `LICENSE`：项目的许可证文件。
