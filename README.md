@@ -8,8 +8,8 @@
 - ④ 外设控制方面，实现了刺激界面实时视觉反馈以及外肢体机器人动、触觉反馈。
 
 ## 代码目录结构
-demos -- demo_system	-- demo_TUNEXON_Calibration.py
--	                    -- demo_TUNEXON_Online.py
+demos---demo_system---demo_TUNEXON_Calibration.py
+----------------------demo_TUNEXON_Online.py
 -	                    -- 1.脑控程序封装 	-- main.exe
 --								                          -- 1.1相关程序文件
 -	                    -- 2.示例校准数据
