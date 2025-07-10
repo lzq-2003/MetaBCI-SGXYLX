@@ -1,0 +1,19 @@
+3.0013 	WARNING 	psychopy.parallel has been imported but no parallel port driver found. Install either inpout32, inpoutx64 or dlportio
+3.2485 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [1536, 864]. Using actual size
+0.0004 	WARNING 	============start experiment at 2025-07-10 17:41:54.542804============
+0.1920 	WARNING 	t of last frame was 21.16ms (=1/47)
+0.3712 	WARNING 	Current screen refresh rate 60Hz and frame period 16.67ms
+1.0259 	DATA 	Keypress: return
+1.0403 	WARNING 	Start paradigm SFMI
+11.5234 	DATA 	Keypress: lshift
+11.7409 	DATA 	Keypress: lwindows
+15.6881 	DATA 	Keypress: lshift
+16.1062 	DATA 	Keypress: lwindows
+23.3563 	DATA 	Keypress: lshift
+24.1905 	DATA 	Keypress: lwindows
+25.9555 	DATA 	Keypress: s
+29.7549 	DATA 	Keypress: escape
+30.7416 	DATA 	Keypress: q
+30.7417 	WARNING 	Finish paradigm SFMI
+31.3886 	DATA 	Keypress: q
+31.4816 	WARNING 	============end Experiemnt at 2025-07-10 17:42:26.024000============
