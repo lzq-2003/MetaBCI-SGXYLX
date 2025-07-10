@@ -10,10 +10,10 @@
 ## 代码目录结构
 demos -- demo_system	-- demo_TUNEXON_Calibration.py
 -	                    -- demo_TUNEXON_Online.py
--	                    -- 脑控程序封装 	-- main.exe
--								                        -- 相关程序文件
--	                    -- 示例校准数据
--	                    -- 示例刺激界面
+-	                    -- 1.脑控程序封装 	-- main.exe
+-								                          -- 1.1相关程序文件
+-	                    -- 2.示例校准数据
+-	                    -- 3.示例刺激界面
 -			-- demo_stim	  -- demo_stim.py
 -	    -- demo_trans	  -- demo_trans.py
 metabci	
