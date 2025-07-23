@@ -221,7 +221,7 @@ class OnlineMI:
             p_label = model.predict(self.data_final)  # 200ms预测一次结果
 
             # 计算实时判别的结果，基于EEG的不稳定性，对输出的指令进行平滑建模处理
-            self.pred_al = smoother(alpha=self.a, initial_value=p_label,current_value=self.pred_all[-1], mode='kalman')
+            self.pred_al = smoother(alpha=self.a, initial_value=p_label,current_value=self.pred_all[-1], mode='standerd')
 
             self.pred_all.append(self.pred_al)  # 存储当前分类结果
             self.ax.append(self.N)  # 存储当前分类的次数，作为画图的横坐标
